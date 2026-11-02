@@ -128,4 +128,4 @@ python scripts/verify_outputs.py
 
 If you use this dataset, code, or workflow in your work, please cite the associated manuscript and Zenodo archive:
 
-> T. El-Achari, L. B. Drissi, I. Mallek-Zouari, F. Goumrhar, and W. Azouzi, *"Capabilities and Limitations of Composition-Only Machine Learning for Predicting the Thermodynamic Stability of Multicomponent Zn-, In-, and Sn-Based Oxides"*, Zenodo (2026). DOI: [10.5281/zenodo.19430860](https://doi.org/10.5281/zenodo.19430860)
+> T. El-Achari, L. B. Drissi, I. Mallek-Zouari, F. Goumrhar, and W. Azouzi, *"Capabilities and Limitations of Composition-Only Machine Learning for Predicting the Thermodynamic Stability of Multicomponent Zn-, In-, and Sn-Based Oxides"*, Zenodo (2026). DOI: [10.5281/zenodo.19430860](https://doi.org/10.5281/zenodo.19430966)
