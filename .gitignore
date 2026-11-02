@@ -1,0 +1,11 @@
+.env
+config.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs and multi-run sessions are local only.
+# data/, models/, figures/ and results/ are kept: they are part of the Zenodo archive.
+logs/
+runs/

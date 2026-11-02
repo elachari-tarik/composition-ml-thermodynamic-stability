@@ -1,0 +1,220 @@
+row_index,material_id,formula_pretty,composition,nelements,host_element_col,dominant_cation,dominant_cation_fraction,anion_to_cation_ratio,ambiguity_reason
+0,mp-1007694,SnPO4F,Sn4 P4 O16 F4,4,Sn,Sn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+67,mp-1195064,Sn2H22S6N4O3,Sn8 H88 S24 N16 O12,5,Sn,H,0.916667,0.541667,dilute_oxide_with_other_dominant_cation
+90,mp-1199125,In2Se2O7,In16 Se16 O56,3,In,In,1.0,4.5,anionic_doped_high_conc_or_stoich_mismatch
+92,mp-1199676,InH10N3O14,In2 H20 N6 O28,4,In,H,0.909091,1.545455,dilute_oxide_with_other_dominant_cation
+132,mp-1212349,In2(SeO4)3,In8 Se12 O48,3,In,In,1.0,7.5,anionic_doped_high_conc_or_stoich_mismatch
+135,mp-1213492,InH12S3(NO4)3,In4 H48 S12 N12 O48,5,In,H,0.923077,1.384615,dilute_oxide_with_other_dominant_cation
+167,mp-12231,SnTe3O8,Sn4 Te12 O32,3,Sn,Sn,1.0,11.0,anionic_doped_high_conc_or_stoich_mismatch
+202,mp-13199,Zn3TeO6,Zn18 Te6 O36,3,Zn,Zn,1.0,2.333333,anionic_doped_high_conc_or_stoich_mismatch
+213,mp-14535,In(PO3)3,In6 P18 O54,3,In,In,1.0,12.0,anionic_doped_high_conc_or_stoich_mismatch
+223,mp-15438,ZnP4O11,Zn4 P16 O44,3,Zn,Zn,1.0,15.0,anionic_doped_high_conc_or_stoich_mismatch
+230,mp-17100,In2P2O7,In8 P8 O28,3,In,In,1.0,4.5,anionic_doped_high_conc_or_stoich_mismatch
+252,mp-18373,ZnSe2O5,Zn4 Se8 O20,3,Zn,Zn,1.0,7.0,anionic_doped_high_conc_or_stoich_mismatch
+272,mp-2097,SnO,Sn2 O2,2,Sn,Sn,1.0,1.0,binary_undoped_edge_case
+275,mp-2133,ZnO,Zn2 O2,2,Zn,Zn,1.0,1.0,binary_undoped_edge_case
+284,mp-22598,In2O3,In16 O24,2,In,In,1.0,1.5,binary_undoped_edge_case
+288,mp-23360,Zn(IO3)2,Zn2 I4 O12,3,Zn,Zn,1.0,8.0,anionic_doped_high_conc_or_stoich_mismatch
+289,mp-23559,In(IO3)3,In2 I6 O18,3,In,In,1.0,12.0,anionic_doped_high_conc_or_stoich_mismatch
+324,mp-27175,InOF,In4 O4 F4,3,In,In,1.0,2.0,anionic_doped_high_conc_or_stoich_mismatch
+325,mp-27480,Sn2OF2,Sn4 O2 F4,3,Sn,Sn,1.0,1.5,anionic_doped_high_conc_or_stoich_mismatch
+327,mp-27493,Sn3(PO4)2,Sn12 P8 O32,3,Sn,Sn,1.0,3.333333,anionic_doped_high_conc_or_stoich_mismatch
+332,mp-28091,In2(TeO3)3,In8 Te12 O36,3,In,In,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+339,mp-28708,In3(PO4)2,In12 P8 O32,3,In,In,1.0,3.333333,anionic_doped_high_conc_or_stoich_mismatch
+347,mp-29590,Sn2OF5,Sn4 O2 F10,3,Sn,Sn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+349,mp-30325,In2(Se2O5)3,In8 Se24 O60,3,In,In,1.0,10.5,anionic_doped_high_conc_or_stoich_mismatch
+350,mp-30986,Zn3S2O9,Zn6 S4 O18,3,Zn,Zn,1.0,3.666667,anionic_doped_high_conc_or_stoich_mismatch
+351,mp-30989,Sn(NO3)4,Sn4 N16 O48,3,Sn,Sn,1.0,16.0,anionic_doped_high_conc_or_stoich_mismatch
+352,mp-31232,In2PO5,In4 P2 O10,3,In,In,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+361,mp-3502,Zn2Te3O8,Zn4 Te6 O16,3,Zn,Zn,1.0,5.5,anionic_doped_high_conc_or_stoich_mismatch
+386,mp-504908,In2TeO6,In6 Te3 O18,3,In,In,1.0,3.5,anionic_doped_high_conc_or_stoich_mismatch
+391,mp-510727,InTeO3F,In4 Te4 O12 F4,4,In,In,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+392,mp-5126,ZnSO4,Zn4 S4 O16,3,Zn,Zn,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+396,mp-5338,ZnSeO3,Zn8 Se8 O24,3,Zn,Zn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+402,mp-541450,In2(SO4)3,In4 S6 O24,3,In,In,1.0,7.5,anionic_doped_high_conc_or_stoich_mismatch
+410,mp-546757,Sn3PO4F3,Sn3 P1 O4 F3,4,Sn,Sn,1.0,2.666667,anionic_doped_high_conc_or_stoich_mismatch
+420,mp-554022,Sn2P2O7,Sn8 P8 O28,3,Sn,Sn,1.0,4.5,anionic_doped_high_conc_or_stoich_mismatch
+443,mp-555838,SnPO3F,Sn4 P4 O12 F4,4,Sn,Sn,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+450,mp-556672,Sn(SeO3)2,Sn4 Se8 O24,3,Sn,Sn,1.0,8.0,anionic_doped_high_conc_or_stoich_mismatch
+462,mp-557920,Zn3(PO4)2,Zn6 P4 O16,3,Zn,Zn,1.0,3.333333,anionic_doped_high_conc_or_stoich_mismatch
+477,mp-559319,Zn2P2O7,Zn16 P16 O56,3,Zn,Zn,1.0,4.5,anionic_doped_high_conc_or_stoich_mismatch
+495,mp-560715,Sn5(PO5)2,Sn10 P4 O20,3,Sn,Sn,1.0,2.4,anionic_doped_high_conc_or_stoich_mismatch
+584,mp-7566,InPO4,In2 P2 O8,3,In,In,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+586,mp-757192,SnP2O7,Sn2 P4 O14,3,Sn,Sn,1.0,9.0,anionic_doped_high_conc_or_stoich_mismatch
+590,mp-759223,Sn(SO4)2,Sn8 S16 O64,3,Sn,Sn,1.0,10.0,anionic_doped_high_conc_or_stoich_mismatch
+603,mp-766947,Sn(PO3)2,Sn8 P16 O48,3,Sn,Sn,1.0,8.0,anionic_doped_high_conc_or_stoich_mismatch
+604,mp-767114,SnP4O11,Sn4 P16 O44,3,Sn,Sn,1.0,15.0,anionic_doped_high_conc_or_stoich_mismatch
+606,mp-768950,Sn2(SO4)3,Sn4 S6 O24,3,Sn,Sn,1.0,7.5,anionic_doped_high_conc_or_stoich_mismatch
+607,mp-772617,Zn(NO3)2,Zn4 N8 O24,3,Zn,Zn,1.0,8.0,anionic_doped_high_conc_or_stoich_mismatch
+616,mp-778924,ZnSeO4,Zn4 Se4 O16,3,Zn,Zn,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+628,mp-8230,Zn(PO3)2,Zn2 P4 O12,3,Zn,Zn,1.0,8.0,anionic_doped_high_conc_or_stoich_mismatch
+633,mp-856,SnO2,Sn2 O4,2,Sn,Sn,1.0,2.0,binary_undoped_edge_case
+650,mp-978114,Sn5O6,Sn10 O12,2,Sn,Sn,1.0,1.2,binary_undoped_edge_case
+682,mp-16819,ZnTeO3,Zn8 Te8 O24,3,Zn,Zn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+684,mp-2713448,Sn2P2SO12,Sn12 P12 S6 O72,4,Sn,Sn,1.0,7.5,anionic_doped_high_conc_or_stoich_mismatch
+723,mp-24267,ZnP4H16(NO8)2,Zn1 P4 H16 N2 O16,5,Zn,H,0.941176,1.294118,dilute_oxide_with_other_dominant_cation
+734,mp-542967,SnSO4,Sn4 S4 O16,3,Sn,Sn,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+748,mp-28932,Sn4OF6,Sn16 O4 F24,3,Sn,Sn,1.0,1.75,anionic_doped_high_conc_or_stoich_mismatch
+795,mp-554599,SnS2(O3F)2,Sn4 S8 O24 F8,4,Sn,Sn,1.0,10.0,anionic_doped_high_conc_or_stoich_mismatch
+808,mp-1196074,ZnFe2H28(S2O15)2,Zn1 Fe2 H28 S4 O30,5,Zn,H,0.903226,1.096774,dilute_oxide_with_other_dominant_cation
+831,mp-706284,ZnH20S2(NO7)2,Zn2 H40 S4 N4 O28,5,Zn,H,0.952381,0.857143,dilute_oxide_with_other_dominant_cation
+842,mp-558065,In4(P2O7)3,In16 P24 O84,3,In,In,1.0,6.75,anionic_doped_high_conc_or_stoich_mismatch
+847,mp-561545,Sn4P2O9,Sn16 P8 O36,3,Sn,Sn,1.0,2.75,anionic_doped_high_conc_or_stoich_mismatch
+857,mp-1210610,MgZn7O8,Mg1 Zn7 O8,3,Zn,Zn,0.875,1.0,borderline_host_fraction_80_to_90pct
+939,mp-861549,Mn11ZnO16,Mn11 Zn1 O16,3,Zn,Mn,0.916667,1.333333,dilute_oxide_with_other_dominant_cation
+943,mp-1197739,ZnH14SO11,Zn4 H56 S4 O44,4,Zn,H,0.933333,0.8,dilute_oxide_with_other_dominant_cation
+952,mp-24500,ZnH12SeO10,Zn4 H48 Se4 O40,4,Zn,H,0.923077,0.846154,dilute_oxide_with_other_dominant_cation
+957,mp-25908,Sn(PO3)4,Sn4 P16 O48,3,Sn,Sn,1.0,16.0,anionic_doped_high_conc_or_stoich_mismatch
+980,mp-1101518,Sn(PO3)3,Sn2 P6 O18,3,Sn,Sn,1.0,12.0,anionic_doped_high_conc_or_stoich_mismatch
+1003,mp-22189,In6TeO12,In6 Te1 O12,3,In,In,1.0,2.166667,anionic_doped_high_conc_or_stoich_mismatch
+1035,mp-774224,InH12S2NO12,In4 H48 S8 N4 O48,5,In,H,0.923077,1.153846,dilute_oxide_with_other_dominant_cation
+1106,mp-766248,Al11InO17,Al22 In2 O34,3,In,Al,0.916667,1.416667,dilute_oxide_with_other_dominant_cation
+1115,mp-1008228,SnPOF7,Sn8 P8 O8 F56,4,Sn,Sn,1.0,9.0,anionic_doped_high_conc_or_stoich_mismatch
+1135,mp-766163,TiSn9O20,Ti1 Sn9 O20,3,Sn,Sn,0.9,2.0,borderline_host_fraction_80_to_90pct
+1227,mp-560198,ZnTe6O13,Zn2 Te12 O26,3,Zn,Zn,1.0,19.0,anionic_doped_high_conc_or_stoich_mismatch
+1240,mp-1217459,Zn(W18O49)2,Zn1 W36 O98,3,Zn,W,0.972973,2.648649,dilute_oxide_with_other_dominant_cation
+1248,mp-1216219,Zn3CrH80S8(NO7)8,Zn3 Cr1 H80 S8 N8 O56,6,Zn,H,0.952381,0.857143,dilute_oxide_with_other_dominant_cation
+1251,mp-779552,ZnTe2O5,Zn8 Te16 O40,3,Zn,Zn,1.0,7.0,anionic_doped_high_conc_or_stoich_mismatch
+1308,mp-685528,Sn(WO3)18,Sn2 W36 O108,3,Sn,W,0.947368,2.842105,dilute_oxide_with_other_dominant_cation
+1338,mp-760795,Al10ZnO16,Al10 Zn1 O16,3,Zn,Al,0.909091,1.454545,dilute_oxide_with_other_dominant_cation
+1352,mp-1203570,ZnH16(IO8)2,Zn2 H32 I4 O32,4,Zn,H,0.941176,1.058824,dilute_oxide_with_other_dominant_cation
+1353,mp-1204544,InTe2O5F,In4 Te8 O20 F4,4,In,In,1.0,8.0,anionic_doped_high_conc_or_stoich_mismatch
+1408,mp-774456,InH11S2O13,In4 H44 S8 O52,4,In,H,0.916667,1.25,dilute_oxide_with_other_dominant_cation
+1452,mp-767039,Sn8P2O13,Sn16 P4 O26,3,Sn,Sn,1.0,1.875,anionic_doped_high_conc_or_stoich_mismatch
+1551,mp-24345,ZnH12(SO6)2,Zn1 H12 S2 O12,4,Zn,H,0.923077,1.076923,dilute_oxide_with_other_dominant_cation
+1552,mp-1047057,Sn3(P2O7)2,Sn6 P8 O28,3,Sn,Sn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+1578,mp-773918,Zn(Bi19O30)2,Zn1 Bi38 O60,3,Zn,Bi,0.974359,1.538462,dilute_oxide_with_other_dominant_cation
+1665,mp-695873,ZnP3H12NO13,Zn2 P6 H24 N2 O26,5,Zn,H,0.923077,1.307692,dilute_oxide_with_other_dominant_cation
+1772,mp-26950,Sn2(PO3)5,Sn4 P10 O30,3,Sn,Sn,1.0,10.0,anionic_doped_high_conc_or_stoich_mismatch
+1776,mp-1223192,Na21ZnS10Cl3O40,Na42 Zn2 S20 Cl6 O80,5,Zn,Na,0.954545,2.409091,dilute_oxide_with_other_dominant_cation
+1849,mp-686183,Zn(Bi25O38)2,Zn1 Bi50 O76,3,Zn,Bi,0.980392,1.490196,dilute_oxide_with_other_dominant_cation
+1932,mp-769187,Sn5P6O25,Sn5 P6 O25,3,Sn,Sn,1.0,6.2,anionic_doped_high_conc_or_stoich_mismatch
+2032,mp-760170,Sn13(O5F3)2,Sn26 O20 F12,3,Sn,Sn,1.0,1.230769,anionic_doped_high_conc_or_stoich_mismatch
+2055,mp-753246,Sn3(OF)2,Sn12 O8 F8,3,Sn,Sn,1.0,1.333333,anionic_doped_high_conc_or_stoich_mismatch
+2083,mp-1198762,InSeClO3,In8 Se8 Cl8 O24,4,In,In,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+2216,mp-760104,InFe29O40,In1 Fe29 O40,3,In,Fe,0.966667,1.333333,dilute_oxide_with_other_dominant_cation
+2271,mp-27018,SnPO4,Sn8 P8 O32,3,Sn,Sn,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+2373,mp-1044829,Sn2P2O9,Sn8 P8 O36,3,Sn,Sn,1.0,5.5,anionic_doped_high_conc_or_stoich_mismatch
+2435,mp-726514,In2P6O19,In4 P12 O38,3,In,In,1.0,12.5,anionic_doped_high_conc_or_stoich_mismatch
+2439,mp-28402,Zn(Bi3O5)4,Zn1 Bi12 O20,3,Zn,Bi,0.923077,1.538462,dilute_oxide_with_other_dominant_cation
+2556,mp-555836,Sn2PClO4,Sn4 P2 Cl2 O8,4,Sn,Sn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+2586,mp-759922,InFe11O16,In2 Fe22 O32,3,In,Fe,0.916667,1.333333,dilute_oxide_with_other_dominant_cation
+2588,mp-1095707,Mg30CrSnO32,Mg30 Cr1 Sn1 O32,4,Sn,Mg,0.9375,1.0,dilute_oxide_with_other_dominant_cation
+2596,mp-768276,InFe17O24,In1 Fe17 O24,3,In,Fe,0.944444,1.333333,dilute_oxide_with_other_dominant_cation
+2667,mp-1095703,Mg30CdSnO32,Mg30 Cd1 Sn1 O32,4,Sn,Mg,0.9375,1.0,dilute_oxide_with_other_dominant_cation
+2694,mp-554808,SnH22(Cl3O5)2,Sn2 H44 Cl12 O20,4,Sn,H,0.956522,0.695652,dilute_oxide_with_other_dominant_cation
+2751,mp-28025,Sn2SO5,Sn16 S8 O40,3,Sn,Sn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+2835,mp-26944,Sn2P3O10,Sn4 P6 O20,3,Sn,Sn,1.0,6.5,anionic_doped_high_conc_or_stoich_mismatch
+2842,mp-557992,InTeClO3,In4 Te4 Cl4 O12,4,In,In,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+2941,mp-1202021,SnH16(ClO2)4,Sn2 H32 Cl8 O16,4,Sn,H,0.941176,0.705882,dilute_oxide_with_other_dominant_cation
+2990,mp-1041231,Sn3P3O13,Sn6 P6 O26,3,Sn,Sn,1.0,5.333333,anionic_doped_high_conc_or_stoich_mismatch
+3002,mp-684053,Sn6P7O24,Sn12 P14 O48,3,Sn,Sn,1.0,5.166667,anionic_doped_high_conc_or_stoich_mismatch
+3058,mp-765193,LiSn10(PO4)7,Li2 Sn20 P14 O56,4,Sn,Sn,0.909091,3.181818,dominant_host_gt_90pct_but_stoich_mismatch
+3074,mp-26446,Sn4(PO4)3,Sn8 P6 O24,3,Sn,Sn,1.0,3.75,anionic_doped_high_conc_or_stoich_mismatch
+3125,mp-778848,In3NO3,In6 N2 O6,3,In,In,1.0,1.333333,anionic_doped_high_conc_or_stoich_mismatch
+3255,mp-24759,ZnH20Se2(NO7)2,Zn2 H40 Se4 N4 O28,5,Zn,H,0.952381,0.857143,dilute_oxide_with_other_dominant_cation
+3260,mp-726839,In(SeO3)2,In4 Se8 O24,3,In,In,1.0,8.0,anionic_doped_high_conc_or_stoich_mismatch
+3262,mp-760054,Sn9(O2F5)2,Sn18 O8 F20,3,Sn,Sn,1.0,1.555556,anionic_doped_high_conc_or_stoich_mismatch
+3277,mp-721238,Li10Sn(PO6)2,Li20 Sn2 P4 O24,4,Sn,Li,0.909091,1.272727,dilute_oxide_with_other_dominant_cation
+3362,mp-1178719,Zn(OF)2,Zn2 O4 F4,3,Zn,Zn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+3369,mp-557537,Zn4P6N12O,Zn4 P6 N12 O1,4,Zn,Zn,1.0,4.75,anionic_doped_high_conc_or_stoich_mismatch
+3418,mp-1191326,InTeBrO3,In4 Te4 Br4 O12,4,In,In,1.0,5.0,anionic_doped_high_conc_or_stoich_mismatch
+3563,mp-1095702,Mg30NbSnO32,Mg30 Nb1 Sn1 O32,4,Sn,Mg,0.9375,1.0,dilute_oxide_with_other_dominant_cation
+3592,mp-31004,Sn(SO2)2,Sn4 S8 O16,3,Sn,Sn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+3594,mp-1006619,Sn3PO6,Sn12 P4 O24,3,Sn,Sn,1.0,2.333333,anionic_doped_high_conc_or_stoich_mismatch
+3627,mp-558350,Zn2TeBr2O3,Zn16 Te8 Br16 O24,4,Zn,Zn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+3686,mp-766259,SnH10Cl4O5,Sn2 H20 Cl8 O10,4,Sn,H,0.909091,0.818182,dilute_oxide_with_other_dominant_cation
+3707,mp-1198177,Sn2PO5,Sn8 P4 O20,3,Sn,Sn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+3777,mp-1200406,SnH10Br4O5,Sn2 H20 Br8 O10,4,Sn,H,0.909091,0.818182,dilute_oxide_with_other_dominant_cation
+3785,mp-1189569,Zn2PO5,Zn4 P2 O10,3,Zn,Zn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+3850,mp-1095706,BaMg30SnO32,Ba1 Mg30 Sn1 O32,4,Sn,Mg,0.9375,1.0,dilute_oxide_with_other_dominant_cation
+3851,mp-557130,Zn2TeCl2O3,Zn16 Te8 Cl16 O24,4,Zn,Zn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+3859,mp-8484,ZnO2,Zn4 O8,2,Zn,Zn,1.0,2.0,binary_undoped_edge_case
+3883,mp-27702,InClO,In2 Cl2 O2,3,In,In,1.0,2.0,anionic_doped_high_conc_or_stoich_mismatch
+3892,mp-1178614,ZnS2(NO2)4,Zn1 S2 N4 O8,4,Zn,Zn,1.0,14.0,anionic_doped_high_conc_or_stoich_mismatch
+3901,mp-1098347,Mg30SnBiO32,Mg30 Sn1 Bi1 O32,4,Sn,Mg,0.9375,1.0,dilute_oxide_with_other_dominant_cation
+3923,mp-1216289,Zn4P3O13,Zn8 P6 O26,3,Zn,Zn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+3980,mp-741677,SnCl8O25,Sn3 Cl24 O75,3,Sn,Sn,1.0,33.0,anionic_doped_high_conc_or_stoich_mismatch
+4039,mp-1046192,Sn5(TeO6)3,Sn10 Te6 O36,3,Sn,Sn,1.0,4.2,anionic_doped_high_conc_or_stoich_mismatch
+4064,mp-557746,Zn2SeCl2O3,Zn16 Se8 Cl16 O24,4,Zn,Zn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+4072,mp-614997,SnS16(Cl2O)2,Sn4 S64 Cl16 O8,4,Sn,Sn,1.0,22.0,anionic_doped_high_conc_or_stoich_mismatch
+4083,mp-1098345,HfMg30SnO32,Hf1 Mg30 Sn1 O32,4,Sn,Mg,0.9375,1.0,dilute_oxide_with_other_dominant_cation
+4113,mp-1201544,Zn3P6H30(N3O13)2,Zn3 P6 H30 N6 O26,5,Zn,H,0.909091,1.151515,dilute_oxide_with_other_dominant_cation
+4143,mp-1095701,Mg30SnCO32,Mg30 Sn1 C1 O32,4,Sn,Mg,0.9375,1.0,dilute_oxide_with_other_dominant_cation
+4214,mp-1212128,InSO5,In4 S4 O20,3,In,In,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+4235,mp-27703,InBrO,In2 Br2 O2,3,In,In,1.0,2.0,anionic_doped_high_conc_or_stoich_mismatch
+4239,mp-759242,InH10N2Cl5O,In4 H40 N8 Cl20 O4,5,In,H,0.909091,0.727273,dilute_oxide_with_other_dominant_cation
+4273,mp-1204031,Zn3Se3O10,Zn6 Se6 O20,3,Zn,Zn,1.0,4.333333,anionic_doped_high_conc_or_stoich_mismatch
+4321,mp-1194268,SnPNO4,Sn4 P4 N4 O16,4,Sn,Sn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+4361,mp-1101402,Sn2N2O,Sn16 N16 O8,3,Sn,Sn,1.0,1.5,anionic_doped_high_conc_or_stoich_mismatch
+4480,mp-1207491,Zn2SO6,Zn8 S4 O24,3,Zn,Zn,1.0,3.5,anionic_doped_high_conc_or_stoich_mismatch
+4492,mp-1198332,Zn3(NO5)2,Zn12 N8 O40,3,Zn,Zn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+4557,mp-2646987,InO,In2 O2,2,In,In,1.0,1.0,binary_undoped_edge_case
+4561,mp-734280,Sn3SO7,Sn12 S4 O28,3,Sn,Sn,1.0,2.666667,anionic_doped_high_conc_or_stoich_mismatch
+4569,mp-1201663,ZnH12S2(NO2)4,Zn4 H48 S8 N16 O32,5,Zn,H,0.923077,1.076923,dilute_oxide_with_other_dominant_cation
+4575,mp-1181008,InO2,In2 O4,2,In,In,1.0,2.0,binary_undoped_edge_case
+4581,mp-762311,ZnH12N4Cl4O3,Zn4 H48 N16 Cl16 O12,5,Zn,H,0.923077,0.846154,dilute_oxide_with_other_dominant_cation
+4622,mp-1042155,ZnTe2O7,Zn2 Te4 O14,3,Zn,Zn,1.0,9.0,anionic_doped_high_conc_or_stoich_mismatch
+4653,mp-1045856,Sn5O7,Sn10 O14,2,Sn,Sn,1.0,1.4,binary_undoped_edge_case
+4664,mp-1104544,Sn3O4,Sn6 O8,2,Sn,Sn,1.0,1.333333,binary_undoped_edge_case
+4668,mp-1103890,ZnSO5,Zn2 S2 O10,3,Zn,Zn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+4696,mp-1046850,Sn2O3,Sn8 O12,2,Sn,Sn,1.0,1.5,binary_undoped_edge_case
+4720,mp-728585,Sn7(SO10)2,Sn28 S8 O80,3,Sn,Sn,1.0,3.142857,anionic_doped_high_conc_or_stoich_mismatch
+4724,mp-1207401,ZnSeO5,Zn2 Se2 O10,3,Zn,Zn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+4731,mp-729138,SnP2O9,Sn2 P4 O18,3,Sn,Sn,1.0,11.0,anionic_doped_high_conc_or_stoich_mismatch
+4795,mp-1215626,ZnOF,Zn4 O4 F4,3,Zn,Zn,1.0,2.0,anionic_doped_high_conc_or_stoich_mismatch
+4797,mp-726037,SnPO3,Sn2 P2 O6,3,Sn,Sn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+4800,mp-1207660,ZnClO8,Zn4 Cl4 O32,3,Zn,Zn,1.0,9.0,anionic_doped_high_conc_or_stoich_mismatch
+4803,mp-1212414,In(PO4)3,In2 P6 O24,3,In,In,1.0,15.0,anionic_doped_high_conc_or_stoich_mismatch
+4805,mp-560891,SnP2Cl8O3,Sn2 P4 Cl16 O6,4,Sn,Sn,1.0,13.0,anionic_doped_high_conc_or_stoich_mismatch
+4806,mp-725947,SnPClO2,Sn4 P4 Cl4 O8,4,Sn,Sn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+4817,mp-1189193,Zn3(PO6)2,Zn3 P2 O12,3,Zn,Zn,1.0,4.666667,anionic_doped_high_conc_or_stoich_mismatch
+4820,mp-726095,Zn(PO2)2,Zn2 P4 O8,3,Zn,Zn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+4823,mp-1200325,ZnNO5,Zn8 N8 O40,3,Zn,Zn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+4828,mp-1190906,Zn(NO4)2,Zn2 N4 O16,3,Zn,Zn,1.0,10.0,anionic_doped_high_conc_or_stoich_mismatch
+4829,mp-1195169,Zn3(Se2O7)2,Zn6 Se8 O28,3,Zn,Zn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+4835,mp-1215755,Zn4TeO3,Zn4 Te1 O3,3,Zn,Zn,1.0,1.0,anionic_doped_high_conc_or_stoich_mismatch
+4843,mp-695736,InOF2,In1 O1 F2,3,In,In,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+4847,mp-1198015,Sn4P3NO12,Sn8 P6 N2 O24,4,Sn,Sn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+4861,mp-559064,SnP2(Cl5O)2,Sn4 P8 Cl40 O8,4,Sn,Sn,1.0,14.0,anionic_doped_high_conc_or_stoich_mismatch
+4867,mp-1215647,Zn2O3F,Zn4 O6 F2,3,Zn,Zn,1.0,2.0,anionic_doped_high_conc_or_stoich_mismatch
+4870,mp-560193,SnSe2(Cl4O)2,Sn2 Se4 Cl16 O4,4,Sn,Sn,1.0,12.0,anionic_doped_high_conc_or_stoich_mismatch
+4872,mp-1203414,Sn6P3NO14,Sn24 P12 N4 O56,4,Sn,Sn,1.0,3.0,anionic_doped_high_conc_or_stoich_mismatch
+4891,mp-1204004,Zn2P2O11F2,Zn4 P4 O22 F4,4,Zn,Zn,1.0,7.5,anionic_doped_high_conc_or_stoich_mismatch
+4895,mp-1203701,In(IO4)3,In2 I6 O24,3,In,In,1.0,15.0,anionic_doped_high_conc_or_stoich_mismatch
+4897,mp-1178781,Zn2P3O16,Zn4 P6 O32,3,Zn,Zn,1.0,9.5,anionic_doped_high_conc_or_stoich_mismatch
+4899,mp-1215648,Zn4Te3O,Zn4 Te3 O1,3,Zn,Zn,1.0,1.0,anionic_doped_high_conc_or_stoich_mismatch
+4916,mp-1206688,Sn2O,Sn2 O1,2,Sn,Sn,1.0,0.5,binary_undoped_edge_case
+4923,mp-1205100,SnS6N2O21,Sn2 S12 N4 O42,4,Sn,Sn,1.0,29.0,anionic_doped_high_conc_or_stoich_mismatch
+4926,mp-1191296,Zn5(NO8)2,Zn5 N2 O16,3,Zn,Zn,1.0,3.6,anionic_doped_high_conc_or_stoich_mismatch
+4967,mp-1208593,ZnSeO10,Zn4 Se4 O40,3,Zn,Zn,1.0,11.0,anionic_doped_high_conc_or_stoich_mismatch
+4968,mp-1219002,Sn3O8,Sn3 O8,2,Sn,Sn,1.0,2.666667,binary_undoped_edge_case
+4975,mp-1188788,Zn2Cl5O2,Zn4 Cl10 O4,3,Zn,Zn,1.0,3.5,anionic_doped_high_conc_or_stoich_mismatch
+4978,mp-1215410,Zn2TeO,Zn2 Te1 O1,3,Zn,Zn,1.0,1.0,anionic_doped_high_conc_or_stoich_mismatch
+4981,mp-1207409,ZnP3NO9,Zn2 P6 N2 O18,4,Zn,Zn,1.0,13.0,anionic_doped_high_conc_or_stoich_mismatch
+4991,mp-1196067,InPO6,In8 P8 O48,3,In,In,1.0,7.0,anionic_doped_high_conc_or_stoich_mismatch
+4998,mp-1196400,InIO5,In8 I8 O40,3,In,In,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+5005,mp-1207562,Zn(PO5)2,Zn2 P4 O20,3,Zn,Zn,1.0,12.0,anionic_doped_high_conc_or_stoich_mismatch
+5011,mp-1192234,ZnClO,Zn8 Cl8 O8,3,Zn,Zn,1.0,2.0,anionic_doped_high_conc_or_stoich_mismatch
+5018,mp-23998,ZnH12N4(ClO4)2,Zn1 H12 N4 Cl2 O8,5,Zn,H,0.923077,1.076923,dilute_oxide_with_other_dominant_cation
+5026,mp-1211974,InS2NO8,In1 S2 N1 O8,4,In,In,1.0,11.0,anionic_doped_high_conc_or_stoich_mismatch
+5047,mp-1178724,Zn4P2O13,Zn8 P4 O26,3,Zn,Zn,1.0,3.75,anionic_doped_high_conc_or_stoich_mismatch
+5064,mp-1181272,InO3,In4 O12,2,In,In,1.0,3.0,binary_undoped_edge_case
+5070,mp-1006617,ZnP2NO9,Zn2 P4 N2 O18,4,Zn,Zn,1.0,12.0,anionic_doped_high_conc_or_stoich_mismatch
+5076,mp-1200976,Sn3P2(NO5)2,Sn6 P4 N4 O20,4,Sn,Sn,1.0,4.666667,anionic_doped_high_conc_or_stoich_mismatch
+5087,mp-1188863,Zn5Cl2O9,Zn5 Cl2 O9,3,Zn,Zn,1.0,2.2,anionic_doped_high_conc_or_stoich_mismatch
+5107,mp-2647061,Sn(TeO2)2,Sn1 Te2 O4,3,Sn,Sn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+5117,mp-1179519,Sn2Cl4O3,Sn8 Cl16 O12,3,Sn,Sn,1.0,3.5,anionic_doped_high_conc_or_stoich_mismatch
+5122,mp-1205006,Zn4SO13,Zn8 S2 O26,3,Zn,Zn,1.0,3.5,anionic_doped_high_conc_or_stoich_mismatch
+5126,mp-1178812,Zn2S2O11,Zn4 S4 O22,3,Zn,Zn,1.0,6.5,anionic_doped_high_conc_or_stoich_mismatch
+5127,mp-1197571,SnCl3O4,Sn4 Cl12 O16,3,Sn,Sn,1.0,7.0,anionic_doped_high_conc_or_stoich_mismatch
+5139,mp-726421,Sn(ClO)2,Sn4 Cl8 O8,3,Sn,Sn,1.0,4.0,anionic_doped_high_conc_or_stoich_mismatch
+5152,mp-1193844,Zn(SeO5)2,Zn2 Se4 O20,3,Zn,Zn,1.0,12.0,anionic_doped_high_conc_or_stoich_mismatch
+5159,mp-1200369,ZnSO10,Zn4 S4 O40,3,Zn,Zn,1.0,11.0,anionic_doped_high_conc_or_stoich_mismatch
+5160,mp-1207877,Zn4SO14,Zn8 S2 O28,3,Zn,Zn,1.0,3.75,anionic_doped_high_conc_or_stoich_mismatch
+5164,mp-1190627,Zn5(N2O7)2,Zn5 N4 O14,3,Zn,Zn,1.0,3.6,anionic_doped_high_conc_or_stoich_mismatch
+5166,mp-1198261,ZnPNO4,Zn8 P8 N8 O32,4,Zn,Zn,1.0,6.0,anionic_doped_high_conc_or_stoich_mismatch
+5174,mp-729204,InS3(NO4)3,In2 S6 N6 O24,4,In,In,1.0,18.0,anionic_doped_high_conc_or_stoich_mismatch
+5176,mp-1198244,ZnP2O5,Zn4 P8 O20,3,Zn,Zn,1.0,7.0,anionic_doped_high_conc_or_stoich_mismatch
+5177,mp-1207751,ZnH12(NO3)2,Zn4 H48 N8 O24,4,Zn,H,0.923077,0.615385,dilute_oxide_with_other_dominant_cation
+5197,mp-726086,SnP2(NO3)2,Sn2 P4 N4 O12,4,Sn,Sn,1.0,10.0,anionic_doped_high_conc_or_stoich_mismatch

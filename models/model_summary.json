@@ -1,0 +1,28 @@
+{
+  "n_features": 118,
+  "n_trainval": 4686,
+  "n_test": 521,
+  "rf_best_params": {
+    "n_estimators": 100,
+    "max_depth": null,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt",
+    "random_state": 42,
+    "n_jobs": -1
+  },
+  "test_metrics": {
+    "random_forest": {
+      "mae": 0.06318057043485119,
+      "r2": 0.5596347620972846
+    },
+    "gradient_boosting": {
+      "mae": 0.06323863340132414,
+      "r2": 0.6055977846148881
+    },
+    "xgboost": {
+      "mae": 0.0713069154278243,
+      "r2": 0.5383776800102977
+    }
+  }
+}

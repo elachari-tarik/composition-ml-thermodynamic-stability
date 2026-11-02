@@ -1,0 +1,12 @@
+Data Cleaning Log
+==================================================
+Raw data: data/raw/mp_doped_oxides_raw.csv (7116 rows)
+Cleaned data: data/processed/mp_doped_oxides_cleaned.csv (5216 rows)
+Total rows removed: 1900
+
+Steps performed:
+  1. No missing values found in any column.
+  2. Removed 58 entries with positive formation energy (thermodynamically unstable relative to elements).
+  3. Removed 2 entries with energy_above_hull > 2.0 eV/atom (highly unstable/hypothetical structures).
+  4. For 906 formulas with multiple polymorphs, kept only the most stable structure (lowest energy_above_hull). Reduced from 7056 to 5216 entries.
+  5. All data integrity checks passed.

@@ -1,0 +1,24 @@
+# Conda environment for the doped-TCO stability project.
+# Exact package versions used for the published results are pinned in requirements.txt;
+# install them with `pip install -r requirements.txt` if you need a bit-for-bit match.
+name: tco_ml
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pymatgen
+      - matminer
+      - scikit-learn
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
+      - jupyter
+      - ydata-profiling
+      - mp-api
+      - tqdm
+      - joblib
+      - xgboost
